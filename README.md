@@ -1,8 +1,8 @@
 # Bitshares Wallet API
 ### Examples using:
-+ [cURL](http://php.net/manual/en/book.curl.php)
-+ [Websocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
-+ [JsonRPCClient](https://gist.github.com/banyan/308599)
++ [cURL (PHP)](http://php.net/manual/en/book.curl.php)
++ [Websocket (Javascript)](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
++ [JsonRPCClient (PHP)](https://gist.github.com/banyan/308599)
 	
 Environment and Requirements
 + Bitshares v2
