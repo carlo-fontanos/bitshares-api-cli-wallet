@@ -26,5 +26,5 @@ $response = curl_exec($ch);
 curl_close($ch);
 
 echo '<pre>';
-print_r(json_encode($array));
+print_r($response);
 echo '</pre>'; 
