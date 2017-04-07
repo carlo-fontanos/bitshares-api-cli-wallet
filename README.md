@@ -1,4 +1,4 @@
-# Bitshares Wallet API
+# Bitshares API via CLI Wallet
 ### Examples using:
 + [cURL (PHP)](http://php.net/manual/en/book.curl.php)
 + [Websocket (Javascript)](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
