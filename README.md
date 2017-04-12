@@ -17,4 +17,4 @@ You can setup your own RPC endpoint by following the tutorial from this link: ht
 
 You can read more about Bitshares from this link: http://docs.bitshares.org/integration/exchanges/index.html
 
-If you are looking for an example on how to interface with Bitshares' Wallet API - [click here](https://github.com/carlo-fontanos/bitshares-api-php)
+If you are looking for an example on how to interface with Bitshares' **Blockchain API** - [click here](https://github.com/carlo-fontanos/bitshares-api-php)
